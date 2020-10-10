@@ -1,5 +1,6 @@
 ---
 layout: mainpage
+title: Fei He
 ---
 
 ---
