@@ -69,7 +69,7 @@ layout: subpage
 
 10. E. Clarke, O. Grumberg, S. Jha, Y. Lu, and H. Veith, “Counterexample-guided abstraction refinement,” in Computer aided verification. Springer, 2000, pp. 154–169.
 
-11. Fei He, Qianshan Yu and Liming Cai, Efficient Summary Reuse for Software Regression Verification, IEEE Transactions on Software Engineering, 2020. Early Access. doi: 10.1109/TSE.2020.3021477.
+11. **Fei He, Qianshan Yu and Liming Cai, Efficient Summary Reuse for Software Regression Verification, IEEE Transactions on Software Engineering, 2020. Early Access. doi: 10.1109/TSE.2020.3021477.**
 
 ---
 
