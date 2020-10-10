@@ -1,0 +1,27 @@
+---
+layout: default
+---
+  <table border="0" cellspacing="0" cellpadding="10">
+      <tr>
+        {% if site.photo %}
+        <td aligh="center" valign="middle" width=230>
+          <img src="{{site.photo | relative_url}}" alt="Fei He" width=200 height=250/>
+        </td>
+        {% endif %}
+        <td>
+            <h1><font color=red>{{site.name}}</font></h1>
+            {{site.position}}<br>
+            <a href="http://www.thss.tsinghua.edu.cn/">School of Software</a><br>
+            <a href="https://www.tsinghua.edu.cn/">Tsinghua Unviersity</a><br>
+            Beijing 100084, China
+            <p>
+            Office: {{site.address}} <br>
+            Email: {{site.email}}<br>
+            Phone: {{site.tel}}
+            <p>  
+        </td>
+      </tr>
+  </table><p>
+
+  {{content}}
+

@@ -1,0 +1,11 @@
+title: Fei He
+name: Fei He
+photo: photo.jpg
+position: Associate Professor
+address: Room 11-307, East Main Building, Tsinghua University
+email: hefei at tsinghua.edu.cn
+tel: +86-10-62773278
+####
+markdown: kramdown
+#kramdown:
+#    math_engine: mathjax
