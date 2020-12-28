@@ -17,10 +17,15 @@ Here is my [Publication List](./publications.html)
 ### <font color=green>News</font>
 
 - Dec 26, 2020: "Leveraging Control Flow Knowledge in SMT Solving of Program Verification" was accepted by ACM TOSEM. 
+
 - Oct 2, 2020: "Termination Analysis for Evolving Programs" and "Incremental Predicate Analysis for Regression Verification" were accepted by OOPSLA 2020.
+
 - Aug 21, 2020: "Efficient Summary Reuse for Software Regression Verification" was accepted by IEEE TSE.
+
 - Jul 4, 2020: "Proving Termination by k-Induction" was accepted by ASE 2020 (NIER).
+
 - May 20, 2020: "Interval Counterexamples for Loop Invariant Learning" was accepted by ESEC/FSE 2020.
+
 - Feb 29, 2020: "Proving Almost-Sure Termination by Omega-Regular Decomposition" was accepted by PLDI 2020.
 
 ---

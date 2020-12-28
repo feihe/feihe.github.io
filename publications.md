@@ -14,21 +14,37 @@ title: Publications
 ### <font color=green>Journals</font>
 
 - Jianhui Chen, Fei He, **Leveraging Control Flow Knowledge in SMT Solving of Program Verification**, ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted. [pdf](./materials/tosem20.pdf)
+
 - Fei He, Qianshan Yu and Liming Cai, **Efficient Summary Reuse for Software Regression Verification**, IEEE Transactions on Software Engineering, 2020. Early Access. doi: 10.1109/TSE.2020.3021477.[pdf](./materials/tse20.pdf) [中文介绍](./materials/tse20.html)
+
 - Chen Luo, Fei He, Fei Peng, Dong Yan, Dan Zhang and Xin Zhou, **PSpec-SQL: Enabling Fine-Grained Control for Distributed Data Analytics**, IEEE Transactions on Dependable and Secure Computing, 2019, Early Access. doi: 10.1109/TDSC.2019.2914209. [pdf](./materials/tdsc19.pdf)
+
 - Chen Luo, Fei He, **SMT-Based Query Tracking for Differentially Private Data Analytics Systems**, Frontier of Computer Science, 2018, 12 (6): 1192-1207. [pdf](./materials/fcs18a.pdf)
+
 - Fei He, Yuan Gao and Liangze Yin, **Efficient Software Product-Line Model Checking using Induction and a SAT-Solver**, Frontier of Computer Science, 2018, 12 (2): 264-279. [pdf](./materials/fcs18b.pdf)
+
 - Liangze Yin, Wei Dong, Fei He and Ji Wang, **A True-Concurrency Encoding for BMC of Compositional Systems**, The Computer Journal, 2017 July: 1-14.
+
 - Chen Luo, Fei He and Carlo Ghezzi, **Inferring Software Behavioral Models with MapReduce** (extended version), Science of Computer Programming, vol. 145, pp. 13-36, Oct. 2017. [pdf](./materials/scp17.pdf)
+
 - Fei He, Xiaowei Gao, Miaofei Wang, Bow-Yaw Wang and Lijun Zhang, **Learning Weighted Assumptions for Compositional Verification of Markov Decision Processes** (journal version of the POPL'15 paper), ACM Transactions on Software Engineering and Methodology (TOSEM), 25 (3), Article 21 (June 2016), 39 pages. [pdf](./materials/tosem16.pdf)
+
 - Dexi Wang, Fei He, Yangdong Deng, Chao Su, Ming Gu, and Jiaguang Sun, **Deadlock detection in FPGA design: a practical way**, Tsinghua Science & Technology, 20(2), pp. 212-218, January 2015. [pdf](./materials/qst15.pdf)
+
 - Fei He, Xiaoyu Song, Ming Gu and Jiaguang Sun, **Generalized Interface Automata with Multicast Synchronization**, Frontier of Computer Sciences, 9(1), pp. 1-14, Feb. 2015. [pdf](./materials/fcs15.pdf)
+
 - Min Zhou, Fei He, Xiaoyu Song, Shi He, Gangyi Chen, Ming Gu. **Estimating the Volume of Solution Space for Satisfiability Modulo Linear Real Arithmetic**. Theory of Computing Systems, 56(2), pp. 347-371, Feb. 2015. [pdf](./materials/tcs15.pdf)
+
 - Hui Kong, Fei He, Xiaoyu Song, Ming Gu, Hongyan Tan and Jiaguang Sun, **Safety Verification of Semi-Algebraic Dynamical Systems via Inductive Invariant**, Tsinghua Science and Technology, 19(2), pp. 211-222, April, 2014. [pdf](./materials/qst14.pdf)
+
 - Min Zhou, Fei He, Bow-Yaw Wang, Ming Gu and Jiaguang Sun, **Array Theory of Bounded Elements and its Applications**, Journal of Automated Reasoning, 52(4), pp. 379-405, April, 2014. [pdf](./materials/jar14.pdf)
+
 - Min Zhou, Fei He, Bow-Yaw Wang, Wenrui Meng, Ming Gu and Jiaguang Sun, **A unified framework for DPLL(T) + certificates**, Journal of Applied Mathematics, vol. 2013, Article ID 964682, 13 pages, 2013. [pdf](./materials/jam13.pdf)
+
 - Liangze Yin, Fei He, William N. N. Hung, Xiaoyu Song and Ming Gu, **Maxterm Covering for Satisfiability**, IEEE Transactions on Computers, 61(3), pp. 420-426, March, 2012. [pdf](./materials/tc12.pdf)
+
 - Fei He, Xiaoyu Song, William N. N. Hung, Ming Gu and Jiaguang Sun, **Integrating Evolutionary Computation with Abstraction Refinement for Model Checking**, IEEE Transactions on Computers, vol. 59, no. 1, pp. 116-126, Jan. 2010. [pdf](./materials/tc10.pdf)
+
 - Fei He, Xiaoyu Song, Ming Gu and Jiaguang Sun, **Heuristic-Guided Abstraction Refinement**, Computer Journal, 52(3), pp. 280-287, May, 2009. [pdf](./materials/cj09.pdf)
 
 ---
