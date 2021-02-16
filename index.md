@@ -58,17 +58,17 @@ Here is my [Publication List](./publications.html)
 
 ### <font color=green>Academic Services</font>
 
-- CCF technical committee on formal methods, member (2015 - present), standing committee member (2018 -- present)
+- CCF technical committee on formal methods, member (2015 -- present), standing committee member (2018 -- present)
 
-- CCF technical committee on system software, member (2020 - present)
+- CCF technical committee on system software, member (2020 -- present)
 
-- Associate editor, Theory of Computing Systems, 2021 - present
+- Associate editor, Theory of Computing Systems, 2021 -- present
 
-- Young associate editor, Frontiers of Computer Science, 2012 - present
+- Young associate editor, Frontiers of Computer Science, 2012 -- present
 
 - Local Arrangement Chair, ISSTA 2019.
 
-- Program committee member: FMCAD 20'-21' 16'-18', SAT 21', FMAC 17'-19', FMCAD 16'-18', CONCUR 18', ATVA 18', MEMCODE 18', SETTA 16'-18', ICECCS 13'-15', APLAS 14'
+- Program committee member: FMCAD 20--21' 16--18', SAT 21', FMAC 17--19', CONCUR 18', ATVA 18', MEMCODE 18', SETTA 16--18', ICECCS 13-15', APLAS 14'
 
 - Program committee chair: YR-SETTA 17'
 
