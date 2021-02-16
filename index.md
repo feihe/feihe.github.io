@@ -38,11 +38,11 @@ Here is my [Publication List](./publications.html)
 
 - Assistant Professor, Tsinghua University, 2008.5 - 2011.12
 
-- Research Assistant, Politecnico di Milano, 2006.11 - 2007.4
+- Visiting Scholar, Politecnico di Milano, 2006.11 - 2007.4
 
-- Ph.D. in Computer Science and Technology, Tsinghua University, 2008.1
+- Ph.D. in Dept. Computer Science and Technology, Tsinghua University, 2008.1
 
-- M.S. in Computer Science, Tsinghua University, 2004.12
+- M.S. in Dept. Computer Science and Technology, Tsinghua University, 2004.12
 
 ---
 
@@ -58,19 +58,19 @@ Here is my [Publication List](./publications.html)
 
 ### <font color=green>Academic Services</font>
 
-- CCF technical committee on formal methods, member (2015 - present), standing committee member (2018 - present)
+- Associate editor, [Theory of Computing Systems](https://www.springer.com/journal/224/editors), 2021 - present
 
-- CCF technical committee on system software, member (2020 - present)
+- Young associate editor, [Frontiers of Computer Science](http://journal.hep.com.cn/fcs/EN/column/column22267.shtml#list), 2012 - present
 
-- Associate editor, Theory of Computing Systems, 2021 - present
+- CCF technical committee on [formal methods](https://www.ccf.org.cn/Chapters/TC/TC_Listing/TFFM/), member (2015 - present), standing committee member (2018 - present)
 
-- Young associate editor, Frontiers of Computer Science, 2012 - present
+- CCF technical committee on [system software](https://www.ccf.org.cn/Chapters/TC/TC_Listing/TCSS/), member (2020 - present)
 
 - Local Arrangement Chair, ISSTA 2019.
 
 - Program committee member: FMCAD 20-21'& 16-18', SAT 21', FMAC 17-19', CONCUR 18', ATVA 18', MEMCODE 18', SETTA 16-18', ICECCS 13-15', APLAS 14'
 
-- Program committee chair: YR-SETTA 17'
+- Program committee co-Chair: YR-SETTA 17'
 
 ---
 
