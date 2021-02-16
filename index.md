@@ -32,13 +32,13 @@ Here is my [Publication List](./publications.html)
 
 ### <font color=green>Education & Employment</font>
 
-- Associate Professor, Tsinghua University, 2011.12-Present
+- Associate Professor, Tsinghua University, 2011.12 - present
 
-- Visiting Scholar, Carnegie Mellon University, 2010.9-2011.3
+- Visiting Scholar, Carnegie Mellon University, 2010.9 - 2011.3
 
-- Assistant Professor, Tsinghua University, 2008.5-2011.12
+- Assistant Professor, Tsinghua University, 2008.5 - 2011.12
 
-- Research Assistant, Politecnico di Milano, 2006.11-2007.4
+- Research Assistant, Politecnico di Milano, 2006.11 - 2007.4
 
 - Ph.D. in Computer Science and Technology, Tsinghua University, 2008.1
 
@@ -68,7 +68,7 @@ Here is my [Publication List](./publications.html)
 
 - Local Arrangement Chair, ISSTA 2019.
 
-- Program committee member: FMCAD 20-21' 16-18', SAT 21', FMAC 17-19', CONCUR 18', ATVA 18', MEMCODE 18', SETTA 16-18', ICECCS 13-15', APLAS 14'
+- Program committee member: FMCAD 20-21' & 16-18', SAT 21', FMAC 17-19', CONCUR 18', ATVA 18', MEMCODE 18', SETTA 16-18', ICECCS 13-15', APLAS 14'
 
 - Program committee chair: YR-SETTA 17'
 
