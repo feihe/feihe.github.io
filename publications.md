@@ -64,13 +64,13 @@ title: Publications
 
 - Jianhui Chen and Fei He, **Proving Almost-Sure Termination by Omega-Regular Decomposition**, PLDI 2020, June 2020. [pdf](./materials/pldi20.pdf)
 
-- Fengmin Zhu, Fei He and Qianshan Yu, **Proper Tree Matching for Enhancing Precision of Structured Merge**, in Proceedings of ICSE 2019 (Companion), Canada, 2019. (poster) [pdf](./materials/icse19poster.pdf)
+- Fengmin Zhu, Fei He and Qianshan Yu, **Proper Tree Matching for Enhancing Precision of Structured Merge**, in Proceedings of ICSE 2019 (Companion), Canada, 2019. (Poster) [pdf](./materials/icse19poster.pdf)
 
 - Jianhui Chen and Fei He, **Control Flow-Guided SMT Solving for Program Verification**, 33rd IEEE/ACM International Conference on Automated Software Engineering (ASE 2018), Montpellier, France, September 3–7, 2018. (ACM SIGSOFT Distinguished Paper) [pdf](./materials/ase18.pdf)
 
 - Fengmin Zhu and Fei He, **Conflict Resolution for Structured Merge via Version Space Algebra**, Proceedings of the ACM on Programming Languages, Vol. 2, No. OOPSLA, Article 166 (October 2018), 25 pages. [pdf](./materials/oopsla18.pdf)
 
-- Chen Luo, Fei He, Dong Yan, Dan Zhang, Xin Zhou and Bow-Yaw Wang, **PSpec: A Formal Specification Language for Fine-Grained Control on Distributed Data Analytics**, in Proceedings of ICSE 2017 (Companion), Buenos Aires, Argentina, May 20-28, pp. 300-302, 2017. (Poster)
+- Chen Luo, Fei He, Dong Yan, Dan Zhang, Xin Zhou and Bow-Yaw Wang, **PSpec: A Formal Specification Language for Fine-Grained Control on Distributed Data Analytics**, in Proceedings of ICSE 2017 (Companion), Buenos Aires, Argentina, May 20-28, pp. 300-302, 2017. (Poster) [pdf](./materials/icse17poster.pdf)
 
 - Fei He, Shu Mao and Bow-Yaw Wang, **Learning-based Assume-Guarantee Regression Verification**, 28th International Conference on Computer Aided Verification (CAV 2016), Toronto, ON, Canada, July 17-23, pp. 310-328, 2016. [pdf](./materials/cav16.pdf)
 
