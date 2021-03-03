@@ -8,7 +8,7 @@ tel: +86-10-62773278
 ####
 markdown: kramdown
 Kramdown:
-    smart_quotes:  ["apos", "apos", "quot", "quot"]
+    smart_quotes:  ["lsquo", "rsquo", "ldquo", "rdquo"]
 
 #kramdown:
 #    math_engine: mathjax
