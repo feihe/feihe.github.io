@@ -16,6 +16,8 @@ Here is my [Publication List](./publications.html)
 
 ### <font color=green>News</font>
 
+- Mar 3, 2020: Our paper, titled "Satisfiability Modulo Ordering Consistency Theory for Multi-Threaded Program Verification", was conditionaly accepted by PLDI 2021!
+
 - Dec 26, 2020: "Leveraging Control Flow Knowledge in SMT Solving of Program Verification" was accepted by ACM TOSEM. 
 
 - Oct 2, 2020: "Termination Analysis for Evolving Programs" and "Incremental Predicate Analysis for Regression Verification" were accepted by OOPSLA 2020.
@@ -68,7 +70,7 @@ Here is my [Publication List](./publications.html)
 
 - Local Arrangement Chair, ISSTA 2019.
 
-- Program committee member: FMCAD 20-21'& 16-18', SAT 21', FMAC 17-19', CONCUR 18', ATVA 18', MEMCODE 18', SETTA 16-18', ICECCS 13-15', APLAS 14'
+- Program committee member: FMCAD 20-21'& 16-18', SAT 21', FMAC 16-19', CONCUR 18', ATVA 18', MEMCODE 18', SETTA 16-17', ICECCS 17' & 13-15', APLAS 14'
 
 - Program committee co-Chair: YR-SETTA 17'
 
