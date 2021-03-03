@@ -7,6 +7,7 @@ email: hefei at tsinghua.edu.cn
 tel: +86-10-62773278
 ####
 markdown: kramdown
+marked: smartypants: false
 
 #kramdown:
 #    math_engine: mathjax
