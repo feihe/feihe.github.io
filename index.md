@@ -28,7 +28,7 @@ Here is my [Publication List](./publications.html)
 
 - May 20, 2020: *Interval Counterexamples for Loop Invariant Learning* was accepted by ESEC/FSE 2020.
 
-- Feb 29, 2020: *Proving Almost-Sure Termination by Omega-Regular Decomposition* was accepted by PLDI 2020.
+- Feb 29, 2020: "Proving Almost-Sure Termination by Omega-Regular Decomposition" was accepted by PLDI 2020.
 
 ---
 
