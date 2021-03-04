@@ -64,13 +64,9 @@ Here is my [Publication List](./publications.html)
 
 - Young associate editor, [Frontiers of Computer Science](http://journal.hep.com.cn/fcs/EN/column/column22267.shtml#list), 2012 - present
 
-- CCF technical committee on [formal methods](https://www.ccf.org.cn/Chapters/TC/TC_Listing/TFFM/), member (2015 - present), standing committee member (2018 - present)
-
-- CCF technical committee on [system software](https://www.ccf.org.cn/Chapters/TC/TC_Listing/TCSS/), member (2020 - present)
-
-- Local Arrangement Chair, ISSTA 2019.
-
 - Program committee member: FMCAD 20-21\' & 16-18\', SAT 21\', FMAC 16-19\', CONCUR 18\', ATVA 18\', MEMCODE 18\', SETTA 16-17\', ICECCS 17\' & 13-15\', APLAS 14\'
+
+- Local Arrangement Chair, ISSTA 19\'
 
 - Program committee co-Chair: YR-SETTA 17\'
 
