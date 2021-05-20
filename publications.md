@@ -69,7 +69,7 @@ title: Publications
 
 - Jianhui Chen and Fei He, **Control Flow-Guided SMT Solving for Program Verification**, 33rd IEEE/ACM International Conference on Automated Software Engineering (ASE 2018), Montpellier, France, September 3–7, 2018. (ACM SIGSOFT Distinguished Paper) [pdf](./materials/ase18.pdf)
 
-- Fengmin Zhu and Fei He, **Conflict Resolution for Structured Merge via Version Space Algebra**, Proceedings of the ACM on Programming Languages, Vol. 2, No. OOPSLA, Article 166 (October 2018), 25 pages. [pdf](./materials/oopsla18.pdf)
+- Fengmin Zhu and Fei He, **Conflict Resolution for Structured Merge via Version Space Algebra**, Proceedings of the ACM on Programming Languages, Vol. 2, No. OOPSLA, Article 166 (October 2018), 25 pages. [pdf](./materials/oopsla18.pdf) [project](https://thufv.github.io/automerge/)
 
 - Chen Luo, Fei He, Dong Yan, Dan Zhang, Xin Zhou and Bow-Yaw Wang, **PSpec: A Formal Specification Language for Fine-Grained Control on Distributed Data Analytics**, in Proceedings of ICSE 2017 (Companion), Buenos Aires, Argentina, May 20-28, pp. 300-302, 2017. (Poster) [pdf](./materials/icse17poster.pdf)
 
