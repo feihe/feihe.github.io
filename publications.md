@@ -13,7 +13,7 @@ title: Publications
 
 ### <font color=green>Journals</font>
 
-- Fei He, Qianshan Yu and Liming Cai, **Efficient Summary Reuse for Software Regression Verification**, IEEE Transactions on Software Engineering, 2020. Early Access. [DOI](https://doi.org/10.1109/TSE.2020.3021477) [pdf](./materials/tse20.pdf) [中文介绍](./materials/tse20.html)
+- Fei He, Qianshan Yu and Liming Cai, **Efficient Summary Reuse for Software Regression Verification**, IEEE Transactions on Software Engineering, 2020. Early Access. [DOI](https://doi.org/10.1109/TSE.2020.3021477) [pdf](./materials/tse20.pdf) [中文介绍](./materials/tse20.html) [artifact](https://thufv.github.io/research/tse20-artifact)
 
 
 - Jianhui Chen, Fei He, **Leveraging Control Flow Knowledge in SMT Solving of Program Verification**, ACM Transactions on Software Engineering and Methodology (TOSEM), May 2021, 30 (4), Article 41, 26 pages. [DOI](https://doi.org/10.1145/3446211) [pdf](./materials/tosem20.pdf)
@@ -55,21 +55,21 @@ title: Publications
 
 - Fei He, Zhihang Sun and Hongyu Fan, **Satisfiability Modulo Ordering Consistency Theory for Multi-threaded Program Verification**, PLDI 2021, June 20-26, 2021. [DOI](https://doi.org/10.1145/3453483.3454108) [pdf](./materials/pldi21.pdf) [artifact](https://thufv.github.io/research/zord)
 
-- Fei He and Jitao Han, **Termination Analysis for Evolving Programs**, OOPSLA 2020, November 2020. [pdf](./materials/oopsla20a.pdf) [artifact](https://thufv.github.io/research/oopsla20a-artifact)
+- Fei He and Jitao Han, **Termination Analysis for Evolving Programs**, OOPSLA 2020, November 2020. [DOI](https://doi.org/10.1145/3428267) [pdf](./materials/oopsla20a.pdf) [artifact](https://thufv.github.io/research/oopsla20a-artifact)
 
-- Qianshan Yu, Fei He and Bow-yaw Wang, **Incremental Predicate Analysis for Regression Verification**, OOPSLA 2020, November 2020. [pdf](./materials/oopsla20b.pdf)
+- Qianshan Yu, Fei He and Bow-yaw Wang, **Incremental Predicate Analysis for Regression Verification**, OOPSLA 2020, November 2020. [DOI](https://doi.org/10.1145/3428252) [pdf](./materials/oopsla20b.pdf) [artifact](https://thufv.github.io/research/oopsla20b-artifact)
 
-- Rongchen Xu, Fei He and Bow-Yaw Wang, **Interval Counterexamples for Loop Invariant Learning**, ESEC/FSE 2020, November 2020. [pdf](./materials/fse20.pdf) [artifact](https://thufv.github.io/research/fse20-artifact)
+- Rongchen Xu, Fei He and Bow-Yaw Wang, **Interval Counterexamples for Loop Invariant Learning**, ESEC/FSE 2020, November 2020. [DOI](https://doi.org/10.1145/3368089.3409752) [pdf](./materials/fse20.pdf) [artifact](https://thufv.github.io/research/fse20-artifact)
 
 - Jianhui Chen and Fei He, **Proving Termination by k-Induction**, ASE 2020 (NIER), Septermber 2020. [pdf](./materials/ase20nier.pdf)
 
-- Jianhui Chen and Fei He, **Proving Almost-Sure Termination by Omega-Regular Decomposition**, PLDI 2020, June 2020. [pdf](./materials/pldi20.pdf)
+- Jianhui Chen and Fei He, **Proving Almost-Sure Termination by Omega-Regular Decomposition**, PLDI 2020, June 2020. [DOI](https://doi.org/10.1145/3385412.3386002) [pdf](./materials/pldi20.pdf)
 
 - Fengmin Zhu, Fei He and Qianshan Yu, **Proper Tree Matching for Enhancing Precision of Structured Merge**, in Proceedings of ICSE 2019 (Companion), Canada, 2019. (Poster) [pdf](./materials/icse19poster.pdf)
 
 - Jianhui Chen and Fei He, **Control Flow-Guided SMT Solving for Program Verification**, 33rd IEEE/ACM International Conference on Automated Software Engineering (ASE 2018), Montpellier, France, September 3–7, 2018. (**ACM SIGSOFT Distinguished Paper**) [pdf](./materials/ase18.pdf)
 
-- Fengmin Zhu and Fei He, **Conflict Resolution for Structured Merge via Version Space Algebra**, Proceedings of the ACM on Programming Languages, Vol. 2, No. OOPSLA, Article 166 (October 2018), 25 pages. [pdf](./materials/oopsla18.pdf) [project](https://thufv.github.io/automerge/)
+- Fengmin Zhu and Fei He, **Conflict Resolution for Structured Merge via Version Space Algebra**, Proceedings of the ACM on Programming Languages, Vol. 2, No. OOPSLA, Article 166 (October 2018), 25 pages. [DOI](https://doi.org/10.1145/3276536) [pdf](./materials/oopsla18.pdf) [project](https://thufv.github.io/automerge/)
 
 - Chen Luo, Fei He, Dong Yan, Dan Zhang, Xin Zhou and Bow-Yaw Wang, **PSpec: A Formal Specification Language for Fine-Grained Control on Distributed Data Analytics**, in Proceedings of ICSE 2017 (Companion), Buenos Aires, Argentina, May 20-28, pp. 300-302, 2017. (Poster) [pdf](./materials/icse17poster.pdf)
 
