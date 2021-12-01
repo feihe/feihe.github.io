@@ -53,6 +53,8 @@ title: Publications
 
 ### <font color=green>Conferences</font>
 
+- Hongyu Fan, Weiting Liu and Fei He, **Interference Relation-Guided SMT Solving for Multi-Threaded Program Verification**, PPoPP 2022. 
+
 - Fei He, Zhihang Sun and Hongyu Fan, **Satisfiability Modulo Ordering Consistency Theory for Multi-threaded Program Verification**, PLDI 2021, June 20-26, 2021. [DOI](https://doi.org/10.1145/3453483.3454108) [pdf](./materials/pldi21.pdf) [artifact](https://thufv.github.io/research/zord)
 
 - Fei He and Jitao Han, **Termination Analysis for Evolving Programs**, OOPSLA 2020, November 2020. [DOI](https://doi.org/10.1145/3428267) [pdf](./materials/oopsla20a.pdf) [artifact](https://thufv.github.io/research/oopsla20a-artifact)

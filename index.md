@@ -18,7 +18,9 @@ Here is my [THUFV lab](https://thufv.github.io/)
 
 ### <font color=green>News</font>
 
-- Apr 9, 2021: Our paper, titled \"Satisfiability Modulo Ordering Consistency Theory for Multi-Threaded Program Verification\", was accepted by PLDI 2021!
+- Nov 16, 2021: Our paper, titled \"Interference Relation-Guided SMT Solving for Multi-Threaded Program Verification \", was accepted by PPoPP 2022.
+
+- Apr 9, 2021: \"Satisfiability Modulo Ordering Consistency Theory for Multi-Threaded Program Verification\", was accepted by PLDI 2021.
 
 - Dec 26, 2020: \"Leveraging Control Flow Knowledge in SMT Solving of Program Verification\" was accepted by ACM TOSEM. 
 
