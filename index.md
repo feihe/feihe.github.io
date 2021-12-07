@@ -18,6 +18,8 @@ Here is my [THUFV lab](https://thufv.github.io/)
 
 ### <font color=green>News</font>
 
+- Dec 3, 2021: Our paper, titled \"Data-Driven Loop Bound Learning for Termination Analysis \", was accepted by ICSE 2022. 
+
 - Nov 16, 2021: Our paper, titled \"Interference Relation-Guided SMT Solving for Multi-Threaded Program Verification \", was accepted by PPoPP 2022.
 
 - Apr 9, 2021: \"Satisfiability Modulo Ordering Consistency Theory for Multi-Threaded Program Verification\", was accepted by PLDI 2021.
