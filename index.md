@@ -82,24 +82,32 @@ Here is my [THUFV lab](https://thufv.github.io/)
 
 ### <font color=green>Current Students</font>
 
-- Jianhui Chen (PhD student)
-
 - Qianshan Yu (PhD student)
 
 - Hongyu Fan (PhD student)
 
-- Weichong Gan (PhD student)
-
 - Zhihang Sun (PhD student)
 
-- Jitao Han (Master student)
-
-- Liu Yang (Master student)
+- Zhilei Han (PhD student)
 
 - Rongchen Xu (Master student)
 
 - Chong Ye (Master student)
 
+- Xingyu Xie (Master student)
+
+- Yang Zhang (Master student)
+
 Past Students
 
-- ...
+- Jianhui Chen (PhD 2021, Huawei)
+
+- Jitao Han (Master 2021, Huawei)
+
+- Liu Yang (Master 2021)
+
+- Fengmin Zhu (Master 2020, PhD student in MPI-SWS)
+
+- Qinyu Wang (Master 2020)
+
+- ... 
