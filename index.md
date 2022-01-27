@@ -42,17 +42,17 @@ Here is my [THUFV lab](https://thufv.github.io/)
 
 ### <font color=green>Education & Employment</font>
 
-- Associate Professor, Tsinghua University, 2011.12 - present
+- Associate Professor, School of Software, Tsinghua University, 2011.12 - present
 
-- Visiting Scholar, Carnegie Mellon University, 2010.9 - 2011.3
+- Visiting Scholar, Carnegie Mellon University (with Prof. Edmund Clarke), 2010.9 - 2011.3
 
-- Assistant Professor, Tsinghua University, 2008.5 - 2011.12
+- Assistant Professor, School of Software, Tsinghua University, 2008.5 - 2011.12
 
-- Visiting Scholar, Politecnico di Milano, 2006.11 - 2007.4
+- Visiting Scholar, Politecnico di Milano (with Prof. Carlo Ghezzi), 2006.11 - 2007.4
 
-- Ph.D. in Dept. Computer Science and Technology, Tsinghua University, 2008.1
+- Ph.D., Department of Computer Science and Technology, Tsinghua University (advisor Prof. Jiaguang Sun), China, 2008.1
 
-- M.S. in Dept. Computer Science and Technology, Tsinghua University, 2004.12
+- Bachelor, College of Computer, National University of Defense Technology (NUDT), China, 2002.7
 
 ---
 
@@ -84,23 +84,23 @@ Here is my [THUFV lab](https://thufv.github.io/)
 
 ### <font color=green>Current Students</font>
 
-- Qianshan Yu (PhD student)
+- Qianshan Yu (PhD student, since 2017)
 
-- Hongyu Fan (PhD student)
+- Hongyu Fan (PhD student, since 2018)
 
-- Zhihang Sun (PhD student)
+- Zhihang Sun (PhD student, since 2020)
 
-- Zhilei Han (PhD student)
+- Zhilei Han (PhD student, since 2021)
 
-- Rongchen Xu (Master student)
+- Rongchen Xu (Master student, since 2019)
 
-- Chong Ye (Master student)
+- Chong Ye (Master student, since 2020)
 
-- Xingyu Xie (Master student)
+- Yang Zhang (Master student, since 2020)
 
-- Yang Zhang (Master student)
+- Xingyu Xie (Master student, since 2021)
 
-Past Students
+### <font color=green>Past Students</font>
 
 - Jianhui Chen (PhD 2021, Huawei)
 
