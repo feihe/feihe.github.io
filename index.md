@@ -72,7 +72,9 @@ Here is my [THUFV lab](https://thufv.github.io/)
 
 - Young associate editor, [Frontiers of Computer Science](http://journal.hep.com.cn/fcs/EN/column/column22267.shtml#list), 2012 - present
 
-- Program committee member: FMCAD 20-21\' & 16-18\', SAT 21\', FMAC 16-19\', CONCUR 18\', ATVA 18\', MEMCODE 18\', SETTA 16-17\', ICECCS 17\' & 13-15\', APLAS 14\'
+- Program committee member (current): ICSE 23\', ESEC/FSE 22\', FMCAD 22\', SAT 22\', ATVA 22\', ICTAC 22\' 
+
+- Program committee member (past): FMCAD 20-21\' & 16-18\', SAT 21\', FMAC 16-19\', CONCUR 18\', ATVA 18\', MEMCODE 18\', SETTA 16-17\', ICECCS 17\' & 13-15\', APLAS 14\'
 
 - Local Arrangement Chair, ISSTA 19\'
 
@@ -104,7 +106,7 @@ Past Students
 
 - Jitao Han (Master 2021, Huawei)
 
-- Liu Yang (Master 2021)
+- Liu Yang (Master 2021, Meituan)
 
 - Fengmin Zhu (Master 2020, PhD student in MPI-SWS)
 
