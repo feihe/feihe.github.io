@@ -53,9 +53,11 @@ title: Publications
 
 ### <font color=green>Conferences</font>
 
-- Rongchen Xu, Jianhui Chen and Fei He, **Data-Driven Loop Bound Learning for Termination Analysis**, ICSE 2022. [artifact](https://thufv.github.io/research/icse22-artifact)
+- Fei He, Zhihang Sun and Hongyu Fan, Deagle: An SMT-based Verifier for Multi-threaded Programs (Competition Contribution), TACAS 2022. [pdf](./materials/tacas-svcomp22.pdf) [artifact](https://github.com/thufv/Deagle)
 
-- Hongyu Fan, Weiting Liu and Fei He, **Interference Relation-Guided SMT Solving for Multi-Threaded Program Verification**, PPoPP 2022. [artifact](https://thufv.github.io/research/ppopp22-artifact) 
+- Rongchen Xu, Jianhui Chen and Fei He, **Data-Driven Loop Bound Learning for Termination Analysis**, ICSE 2022. [pdf](./materials/icse22.pdf) [artifact](https://thufv.github.io/research/icse22-artifact)
+
+- Hongyu Fan, Weiting Liu and Fei He, **Interference Relation-Guided SMT Solving for Multi-Threaded Program Verification**, PPoPP 2022. [pdf](./materials/ppopp22.pdf) [artifact](https://thufv.github.io/research/ppopp22-artifact) 
 
 - Fei He, Zhihang Sun and Hongyu Fan, **Satisfiability Modulo Ordering Consistency Theory for Multi-threaded Program Verification**, PLDI 2021, June 20-26, 2021. [DOI](https://doi.org/10.1145/3453483.3454108) [pdf](./materials/pldi21.pdf) [artifact](https://thufv.github.io/research/zord)
 
