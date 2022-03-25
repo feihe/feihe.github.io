@@ -53,7 +53,7 @@ title: Publications
 
 ### <font color=green>Conferences</font>
 
-- Fei He, Zhihang Sun and Hongyu Fan, Deagle: An SMT-based Verifier for Multi-threaded Programs (Competition Contribution), TACAS 2022. [pdf](./materials/tacas-svcomp22.pdf) [artifact](https://github.com/thufv/Deagle)
+- Fei He, Zhihang Sun and Hongyu Fan, **Deagle: An SMT-based Verifier for Multi-threaded Programs (Competition Contribution)**, TACAS 2022. [pdf](./materials/tacas-svcomp22.pdf) [artifact](https://github.com/thufv/Deagle)
 
 - Rongchen Xu, Jianhui Chen and Fei He, **Data-Driven Loop Bound Learning for Termination Analysis**, ICSE 2022. [pdf](./materials/icse22.pdf) [artifact](https://thufv.github.io/research/icse22-artifact)
 
