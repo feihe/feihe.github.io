@@ -18,6 +18,8 @@ Here is my [THUFV lab](https://thufv.github.io/)
 
 ### <font color=green>News</font>
 
+- Apr 18, 2022: Our PPoPP\'22 paper, named \"Interference Relation-Guided SMT Solving for Multi-Threaded Program Verification\", received the **Best Paper Award**!
+
 - Dec 19, 2021: Our program verification tool **Deagle** won the **gold medal** in \"ConcurrencySafety\" category in [SV-COMP 2022](https://sv-comp.sosy-lab.org/2022/results/results-verified/)!
 
 - Dec 3, 2021: Our paper, titled \"Data-Driven Loop Bound Learning for Termination Analysis \", was accepted by ICSE 2022. 
