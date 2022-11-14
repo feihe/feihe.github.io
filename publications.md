@@ -54,7 +54,7 @@ title: Publications
 
 - Fei He, **On SMT Solving for Multi-threaded Program Verification**, Keynote, SETTA 2022. 
 
-- Fengmin Zhu, Xingyu Xie, Dongyu Feng, Na Meng and Fei He, **Mastery: Shifted-Code-Aware Structured Merging**, SETTA 2022, Oct. 27-29, 2022 (**Best Paper Awar**).
+- Fengmin Zhu, Xingyu Xie, Dongyu Feng, Na Meng and Fei He, **Mastery: Shifted-Code-Aware Structured Merging**, SETTA 2022, Oct. 27-29, 2022 (**Best Paper Award**).
 
 - Fengmin Zhu and Fei He, **EqFix: Fixing LaTeX Equation Errors by Examples**, SETTA 2022, Oct. 27-29, 2022. 
 
