@@ -20,7 +20,7 @@ Here is my [THUFV lab](https://thufv.github.io/)
 
 - Oct 28, 2022: Our paper, titled \"Mastery: Shifted-Code-Aware Structured Merging\", received the [**Best Paper Award**] at SETTA 2022!
 
-- Jul 1, 2022: Our paper, titled \"Consistency-Preserving Propagation for SMT Solving of Concurrent Program Verification\", was Conditionally Accepted by OOPSLA 2022!
+- Jul 1, 2022: Our paper, titled \"Consistency-Preserving Propagation for SMT Solving of Concurrent Program Verification\", was accepted by OOPSLA 2022!
 
 - Apr 18, 2022: Our PPoPP\'22 paper, titled \"Interference Relation-Guided SMT Solving for Multi-Threaded Program Verification\", received the [**Best Paper Award**] at PPoPP 2022(https://ppopp22.sigplan.org/)!
 
