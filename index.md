@@ -18,9 +18,11 @@ Here is my [THUFV lab](https://thufv.github.io/)
 
 ### <font color=green>News</font>
 
+- Oct 28, 2022: Our paper, titled \"Mastery: Shifted-Code-Aware Structured Merging\", received the [**Best Paper Award**] at SETTA 2022!
+
 - Jul 1, 2022: Our paper, titled \"Consistency-Preserving Propagation for SMT Solving of Concurrent Program Verification\", was Conditionally Accepted by OOPSLA 2022!
 
-- Apr 18, 2022: Our PPoPP\'22 paper, titled \"Interference Relation-Guided SMT Solving for Multi-Threaded Program Verification\", received the [**Best Paper Award**](https://ppopp22.sigplan.org/)!
+- Apr 18, 2022: Our PPoPP\'22 paper, titled \"Interference Relation-Guided SMT Solving for Multi-Threaded Program Verification\", received the [**Best Paper Award**] at PPoPP 2022(https://ppopp22.sigplan.org/)!
 
 - Dec 19, 2021: Our program verification tool **Deagle** won the **gold medal** in \"ConcurrencySafety\" category in [SV-COMP 2022](https://sv-comp.sosy-lab.org/2022/results/results-verified/)!
 
