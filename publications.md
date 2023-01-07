@@ -56,15 +56,17 @@ title: Publications
 
 - Fei He, **On SMT Solving for Multi-threaded Program Verification**, Keynote, SETTA 2022. 
 
-- Fengmin Zhu, Xingyu Xie, Dongyu Feng, Na Meng and Fei He, **Mastery: Shifted-Code-Aware Structured Merging**, SETTA 2022, Oct. 27-29, 2022 (**Best Paper Award**). [pdf](./materials/setta22a.pdf)
+- Fengmin Zhu, Xingyu Xie, Dongyu Feng, Na Meng and Fei He, **Mastery: Shifted-Code-Aware Structured Merging**, SETTA 2022, LNCS 13649, Oct. 27-29, 2022 (**Best Paper Award**). [DOI](https://doi.org/10.1007/978-3-031-21213-0_5) [pdf](./materials/setta22a.pdf) [artifact](https://thufv.github.io/research/setta22a-artifact)
 
-- Fengmin Zhu and Fei He, **EqFix: Fixing LaTeX Equation Errors by Examples**, SETTA 2022, Oct. 27-29, 2022. [pdf](./materials/setta22b.pdf) [artifact](https://github.com/thufv/EqFix)
+- Fengmin Zhu and Fei He, **EqFix: Fixing LaTeX Equation Errors by Examples**, SETTA 2022, LNCS 13649, Oct. 27-29, 2022. [DOI](https://doi.org/10.1007/978-3-031-21213-0_7) [pdf](./materials/setta22b.pdf) [artifact](https://github.com/thufv/EqFix)
+
+- Zhihang Sun, Hongyu Fan and Fei He. **Consistency-Preserving Propagation for SMT Solving of Concurrent Program Verification**, OOPSLA 2022, October 2022, Article 158, 28 pages. [DOI](https://doi.org/10.1145/3563321) [pdf](./materials/oopsla22.pdf) [artifact](https://thufv.github.io/research/oopsla22-artifact)
 
 - Fei He, Zhihang Sun and Hongyu Fan, **Deagle: An SMT-based Verifier for Multi-threaded Programs (Competition Contribution)**, TACAS 2022. [DOI](https://doi.org/10.1007/978-3-030-99527-0_25) [pdf](./materials/tacas-svcomp22.pdf) [artifact](https://github.com/thufv/Deagle)
 
-- Rongchen Xu, Jianhui Chen and Fei He, **Data-Driven Loop Bound Learning for Termination Analysis**, ICSE 2022. [pdf](./materials/icse22.pdf) [artifact](https://thufv.github.io/research/icse22-artifact)
+- Rongchen Xu, Jianhui Chen and Fei He, **Data-Driven Loop Bound Learning for Termination Analysis**, ICSE 2022, May 2022. [DOI](https://doi.org/10.1145/3510003.3510220) [pdf](./materials/icse22.pdf) [artifact](https://thufv.github.io/research/icse22-artifact)
 
-- Hongyu Fan, Weiting Liu and Fei He, **Interference Relation-Guided SMT Solving for Multi-Threaded Program Verification**, PPoPP 2022, April 2022 (**Best Paper Award**). [pdf](./materials/ppopp22.pdf) [artifact](https://thufv.github.io/research/ppopp22-artifact) 
+- Hongyu Fan, Weiting Liu and Fei He, **Interference Relation-Guided SMT Solving for Multi-Threaded Program Verification**, PPoPP 2022, April 2022 (**Best Paper Award**). [DOI](https://doi.org/10.1145/3503221.3508424) [pdf](./materials/ppopp22.pdf) [artifact](https://thufv.github.io/research/ppopp22-artifact) 
 
 - Fei He, Zhihang Sun and Hongyu Fan, **Satisfiability Modulo Ordering Consistency Theory for Multi-threaded Program Verification**, PLDI 2021, June 20-26, 2021. [DOI](https://doi.org/10.1145/3453483.3454108) [pdf](./materials/pldi21.pdf) [artifact](https://thufv.github.io/research/zord)
 
