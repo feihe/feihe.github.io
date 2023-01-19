@@ -13,7 +13,9 @@ title: Publications
 
 ### <font color=green>Journals</font>
 
-- Hongyu Fan, Zhihang Sun and Fei He, **Satisfiability Modulo Ordering Consistency Theory for SC, TSO, and PSO Memory Models**, ACM Transactions on Programming Languages and Systems (TOPLAS), accepted, 2022. [pdf](./materials/toplas22.pdf)
+- Hongyu Fan, Zhihang Sun and Fei He, **Satisfiability Modulo Ordering Consistency Theory for SC, TSO, and PSO Memory Models**, ACM Transactions on Programming Languages and Systems (TOPLAS), accepted, 2022. [DOI](https://doi.org/10.1145/3579835) [pdf](./materials/toplas22.pdf)
+
+- Bowen Shen, Muhammad Ali Gulzar, Fei He and Na Meng. **A Characterization Study of Merge Conflicts in Java Projects**. ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted (July 2022). [DOI](https://doi.org/10.1145/3546944)
 
 - Fei He, Qianshan Yu and Liming Cai, **Efficient Summary Reuse for Software Regression Verification**, IEEE Transactions on Software Engineering, April 2022, 48(4): 1417-1431. [DOI](https://doi.org/10.1109/TSE.2020.3021477) [pdf](./materials/tse22.pdf) [中文介绍](./materials/tse20.html) [artifact](https://thufv.github.io/research/tse20-artifact)
 
