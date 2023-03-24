@@ -38,10 +38,10 @@ permalink: /ProgramVerification/s23
 | 1    | 2023/02/24 | 绪论    |    |    |     |
 | 2    | 2023/03/03 | 命题逻辑   | [2](./lectures/2-propositional-logic.handout.pdf) |  |                    |
 | 3    | 2023/03/10 | 一阶逻辑 | [3](./lectures/3-first-order-logic.handout.pdf) | Homework 1 (DDL:03/23) |  |
-| 4    | 2023/03/17 | 一阶理论<br />IMP程序语言及其语义<br />*助教课：Z3工具（时间另行通知）*| [4](./lectures/4-theories.handout.pdf) |  |  |
-| 5    | 2023/03/24 | 演绎程序验证 |  | Homework 2 (DDL:04/06) |  |
-| 6    | 2023/03/31 | 循环 |  |  |  |
-| 7    | 2023/04/07 | 扩展IMP语言 |  | Homework 3 (DDL:04/20) |  |
+| 4    | 2023/03/17 | 一阶理论<br />*助教课：Z3工具（时间另行通知）*| [4](./lectures/4-theories.handout.pdf) |  |  |
+| 5    | 2023/03/24 | IMP程序语言及其语义 | [5](./lectures/5-program-semantics.pdf) | Homework 2 (DDL:04/06) |  |
+| 6    | 2023/03/31 | 演绎程序验证 |  |  |  |
+| 7    | 2023/04/07 | 循环<br /> |  | Homework 3 (DDL:04/20) |  |
 | 8    | 2023/04/14 | 验证条件         |        |        |               |
 | 9    | 2023/04/21 | 扩展IMP语言<br/>*助教课：课程大作业说明* |  | Homework 4 (DDL:05/11) |  |
 | 10   | 2023/04/28 | 程序终止性|  |  |  |
