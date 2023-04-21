@@ -13,7 +13,7 @@ Here is my [Publication List](./publications.html)
 
 Here is my [THUFV lab](https://thufv.github.io/) 
 
-**I am currently looking for highly motivated postdoctoral and PhD students. All interested candidates are welcome to apply. Kindly send your CV to me via email. **
+**I am currently looking for highly motivated postdoctoral and PhD students. All interested candidates are welcome to apply. Kindly send your CV to me via email.**
 
 ---
 
