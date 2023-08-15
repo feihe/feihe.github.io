@@ -56,6 +56,8 @@ title: Publications
 
 ### <font color=green>Conferences</font>
 
+- Zhilei Han and Fei He, **Data-driven Recurrent Set Learning For Non-termination Analysis**, ICSE 2023, May 14-20, 2023. [DOI](https://doi.org/10.1109/ICSE48619.2023.00115) [pdf](./materials/icse23.pdf)
+
 - Fei He, **On SMT Solving for Multi-threaded Program Verification**, Keynote, SETTA 2022. 
 
 - Fengmin Zhu, Xingyu Xie, Dongyu Feng, Na Meng and Fei He, **Mastery: Shifted-Code-Aware Structured Merging**, SETTA 2022, LNCS 13649, Oct. 27-29, 2022 (**Best Paper Award**). [DOI](https://doi.org/10.1007/978-3-031-21213-0_5) [pdf](./materials/setta22a.pdf) [artifact](https://thufv.github.io/research/setta22a-artifact)
