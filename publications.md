@@ -55,6 +55,7 @@ title: Publications
 
 
 ### <font color=green>Conferences</font>
+- Jiangyi Liu, Fengmin Zhu and Fei He, **Automated Ambiguity Detection in Layout-Sensitive Grammars**, OOPSLA 2023. [DOI](https://doi.org/10.1145/3622838) [pdf](./materials/oopsla23.pdf) [artifact](https://doi.org/10.5281/zenodo.8329981)
 
 - Chong Ye and Fei He, **P4b: A Translator from P4 Programs to Boogie**, ESEC/FSE 2023 (Tool), December 3-9, 2023. [DOI](https://doi.org/10.1145/3611643.3613091) [pdf](./materials/fse23tool.pdf) [artifact](https://thufv.github.io/research/P4-to-Boogie)
 

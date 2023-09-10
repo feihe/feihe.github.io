@@ -20,13 +20,15 @@ Here is my [THUFV lab](https://thufv.github.io/)
 
 ### <font color=green>News</font>
 
-- Dec 9, 2022: Our paper, titled \"Data-driven Recurrent Set Learning For Non-termination Analysis\", was acceted by ICSE 2023!
+- Aug 29, 2023: Our paper, titled \"Automated Ambiguity Detection in Layout-Sensitive Grammars\", was finally accepted by OOPSLA 2023. 
 
-- Dec 3, 2022: Our paper, titled \"Satisfiability Modulo Ordering Consistency Theory for SC, TSO, and PSO Memory Models\", was accepted by ACM TOPLAS!
+- Dec 9, 2022: Our paper, titled \"Data-driven Recurrent Set Learning For Non-termination Analysis\", was acceted by ICSE 2023.
+
+- Dec 3, 2022: Our paper, titled \"Satisfiability Modulo Ordering Consistency Theory for SC, TSO, and PSO Memory Models\", was accepted by ACM TOPLAS.
 
 - Oct 28, 2022: Our paper, titled \"Mastery: Shifted-Code-Aware Structured Merging\", received the [**Best Paper Award**](https://lcs.ios.ac.cn/setta2022/index.php) at SETTA 2022!
 
-- Jul 1, 2022: Our paper, titled \"Consistency-Preserving Propagation for SMT Solving of Concurrent Program Verification\", was accepted by OOPSLA 2022!
+- Jul 1, 2022: Our paper, titled \"Consistency-Preserving Propagation for SMT Solving of Concurrent Program Verification\", was accepted by OOPSLA 2022.
 
 - Apr 18, 2022: Our PPoPP\'22 paper, titled \"Interference Relation-Guided SMT Solving for Multi-Threaded Program Verification\", received the [**Best Paper Award**](https://ppopp22.sigplan.org/) at PPoPP 2022!
 
