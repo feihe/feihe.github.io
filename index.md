@@ -106,7 +106,11 @@ Here is my [THUFV lab](https://thufv.github.io/)
 
 - Zhijie Xu (PhD student, since 2022)
 
-- Chong Ye (Master student, since 2020)
+- Biting Huang (PhD student, since 2023)
+
+- Pei Wang (PhD student, since 2023)
+
+<!-- - Chong Ye (Master student, since 2020) -->
 
 - Yang Zhang (Master student, since 2020)
 
@@ -119,6 +123,8 @@ Here is my [THUFV lab](https://thufv.github.io/)
 - Qianshan Yu (PhD 2022, ZGC)
 
 - Jianhui Chen (PhD 2021, Huawei)
+
+- Chong Ye (Master 2023, Huawei)
 
 - Rongchen Xu (Master 2022, Huawei)
 
