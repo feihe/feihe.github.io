@@ -13,6 +13,8 @@ title: Publications
 
 ### <font color=green>Journals</font>
 
+- Fengmin Zhu, Xingyu Xie, Dongyu Feng, Na Meng and Fei He, **On the Methodology of Three-Way Structured Merge in Version Control Systems: Top-Down, Bottom-Up, or Both**, Journal of Systems Architecture, V. 145, December 2023, 103011. [DOI](https://doi.org/10.1016/j.sysarc.2023.103011) [pdf](./materials/jsa23.pdf) [artifact](https://thufv.github.io/research/setta22a-artifact)
+ 
 - Hongyu Fan, Zhihang Sun and Fei He, **Satisfiability Modulo Ordering Consistency Theory for SC, TSO, and PSO Memory Models**, ACM Transactions on Programming Languages and Systems (TOPLAS), 2023, 45 (1), Article 6, 37 pages. [DOI](https://doi.org/10.1145/3579835) [pdf](./materials/toplas23.pdf)
 
 - Bowen Shen, Muhammad Ali Gulzar, Fei He and Na Meng. **A Characterization Study of Merge Conflicts in Java Projects**. ACM Transactions on Software Engineering and Methodology (TOSEM), Accepted (July 2022). [DOI](https://doi.org/10.1145/3546944)
