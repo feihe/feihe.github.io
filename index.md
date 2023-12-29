@@ -20,6 +20,8 @@ Here is my [THUFV lab](https://thufv.github.io/)
 
 ### <font color=green>News</font>
 
+- Dec 01, 2023: Our paper, titled \"P4Inv: Inferring Packet Invariants for Verification of Stateful P4 Programs\", was accepted by INFOCOM 2024. 
+
 - Aug 29, 2023: Our paper, titled \"Automated Ambiguity Detection in Layout-Sensitive Grammars\", was finally accepted by OOPSLA 2023. 
 
 - Dec 9, 2022: Our paper, titled \"Data-driven Recurrent Set Learning For Non-termination Analysis\", was accepted by ICSE 2023.
