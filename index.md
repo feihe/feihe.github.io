@@ -102,8 +102,6 @@ Here is my [THUFV lab](https://thufv.github.io/)
 
 ### <font color=green>Current Students</font>
 
-- Hongyu Fan (PhD student, since 2018)
-
 - Zhihang Sun (PhD student, since 2020)
 
 - Zhilei Han (PhD student, since 2021)
@@ -114,8 +112,6 @@ Here is my [THUFV lab](https://thufv.github.io/)
 
 - Pei Wang (PhD student, since 2023)
 
-<!-- - Chong Ye (Master student, since 2020) -->
-
 - Yang Zhang (Master student, since 2020)
 
 - Xingyu Xie (Master student, since 2021)
@@ -124,7 +120,9 @@ Here is my [THUFV lab](https://thufv.github.io/)
 
 ### <font color=green>Past Students</font>
 
-- Qianshan Yu (PhD 2022, ZGC)
+- Hongyu Fan (PhD 2024, Huawei)
+
+- Qianshan Yu (PhD 2022, ZGC Lab)
 
 - Jianhui Chen (PhD 2021, Huawei)
 
