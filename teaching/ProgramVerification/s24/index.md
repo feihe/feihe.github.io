@@ -1,7 +1,7 @@
 ---
 layout: default
 title: “软件分析与验证”课程主页
-permalink: /ProgramVerification/s23
+permalink: /ProgramVerification/s24
 ---
 
 [Homepage](../../../index.html)
@@ -35,20 +35,19 @@ permalink: /ProgramVerification/s23
 
 | 周次 | 日期  | 教学内容  | 讲义  | 作业    | 备注   |
 | ---- | ---------- | ------- | --------- | -------- | -------- |
-| 1    | 2023/02/24 | 绪论    | [1](./lectures/1-example-program-gcd.handout.pdf) |    |     |
-| 2    | 2023/03/03 | 命题逻辑   | [2](./lectures/2-propositional-logic.handout.pdf) |  |                    |
-| 3    | 2023/03/10 | 一阶逻辑 | [3](./lectures/3-first-order-logic.handout.pdf) | Homework 1 (DDL:03/23) |  |
-| 4    | 2023/03/17 | 一阶理论<br />*助教课：Z3工具（时间另行通知）*|  |  |  |
-| 5    | 2023/03/24 | IMP程序语言及其语义 |  | Homework 2 (DDL:04/06) |  |
-| 6    | 2023/03/31 | 演绎程序验证 |  |  |  |
-| 7    | 2023/04/07 | 循环<br /> |  | Homework 3 (DDL:04/20) |  |
-| 8    | 2023/04/14 | 验证条件         |        |        |               |
-| 9    | 2023/04/21 | 扩展IMP语言<br/>*助教课：课程大作业说明* |  | Homework 4 (DDL:05/11) |  |
-| 10   | 2023/04/28 | 程序终止性|  |  |  |
-| 11   | <b>2023/05/05</b> |  |  |  | 放假 |
-| 12   | 2023/05/12 | 推导循环不变式|    |    |       |
-| 13   | 2023/05/19 | 程序的自动机表示  |       |       |        |
-| 14   | 2023/05/26 | 自动程序验证（1） |  | Homework 5 (DDL:06/01) |      |
-| 15   | 2023/05/30 | 自动程序验证（2） |   |   |               |
-| 16   | 2023/06/02 | 扩展性内容 |      |      |               |
+| 1    | 2024/03/01 | 绪论    | [1](./lectures/handout-1-example-program-gcd.pdf) |    |     |
+| 2    | 2024/03/08 | 命题逻辑   | [2](./lectures/handout-2-propositional-logic.pdf) |  |                    |
+| 3    | 2024/03/15 | 一阶逻辑 | [3](./lectures/handout-3-first-order-logic.pdf) | Homework 1 (DDL:03/23) |  |
+| 4    | 2024/03/22 | 一阶理论<br />*助教课：Z3工具（时间另行通知）*| [4](./lectures/handout-4-theories.pdf) |  |  |
+| 5    | 2024/03/29 | IMP程序语言及其语义 | [5](./lectures/handout-5-program-semantics.pdf  | Homework 2 (DDL:04/06) |  |
+| 6    | 2024/04/07 | 霍尔证明系统 | [6](./lectures/handout-6-hoare.pdf)  |  |  |
+| 7    | 2024/04/12 | 循环<br /> | [7](./lectures/handout-7-loop.pdf) | Homework 3 (DDL:04/20) |  |
+| 8    | 2024/04/19 | 数组<br/>*助教课：课程大作业说明* |[8](./lectures/handout-8-array.pdf)   | Homework 4 (DDL:05/11) |  |
+| 9    | 2024/04/26 | 最弱前置条件<br/>程序终止性| [9](./lectures/handout-9-predicate-transformation.pdf) |  |  |
+| 10   | <b>2024/05/03</b> |  |  |  | 放假 |
+| 11   | 2024/05/10 | 推导循环不变式|    |    |       |
+| 12   | 2024/05/17 | 程序的自动机表示  |       |       |        |
+| 13   | 2024/05/24 | 自动程序验证（1） |  | Homework 5 (DDL:06/01) |      |
+| 14   | 2024/05/31 | 自动程序验证（2） |   |   |               |
+| 15   | 2024/06/07 | 扩展性内容 |      |      |               |
 
