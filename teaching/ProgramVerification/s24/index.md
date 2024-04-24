@@ -39,7 +39,7 @@ permalink: /ProgramVerification/s24
 | 2    | 2024/03/08 | 命题逻辑   | [2](./lectures/handout-2-propositional-logic.pdf) |  |                    |
 | 3    | 2024/03/15 | 一阶逻辑 | [3](./lectures/handout-3-first-order-logic.pdf) | Homework 1 (DDL:03/23) |  |
 | 4    | 2024/03/22 | 一阶理论<br />*助教课：Z3工具（时间另行通知）*| [4](./lectures/handout-4-theories.pdf) |  |  |
-| 5    | 2024/03/29 | IMP程序语言及其语义 | [5](./lectures/handout-5-program-semantics.pdf  | Homework 2 (DDL:04/06) |  |
+| 5    | 2024/03/29 | IMP程序语言及其语义 | [5](./lectures/handout-5-program-semantics.pdf)  | Homework 2 (DDL:04/06) |  |
 | 6    | 2024/04/07 | 霍尔证明系统 | [6](./lectures/handout-6-hoare.pdf)  |  | 调课 |
 | 7    | 2024/04/12 | 循环<br /> | [7](./lectures/handout-7-loop.pdf) | Homework 3 (DDL:04/20) |  |
 | 8    | 2024/04/19 | 数组<br/>*助教课：课程大作业说明* |[8](./lectures/handout-8-array.pdf)   | Homework 4 (DDL:05/11) |  |
