@@ -43,7 +43,7 @@ permalink: /ProgramVerification/s24
 | 6    | 2024/04/07 | 霍尔证明系统 | [6](./lectures/handout-6-hoare.pdf)  |  | 调课 |
 | 7    | 2024/04/12 | 深入理解循环<br />扩展IMP语言--数组 | [7](./lectures/handout-7-loop.pdf), [8](./lectures/handout-8-array.pdf) | Homework 3 (DDL:04/20) |  |
 | 8    | 2024/04/19 | 最弱前置条件 |[9](./lectures/handout-9-predicate-transformation.pdf)  | Homework 4 (DDL:05/11) |  |
-| 9    | 2024/04/26 | 扩展IMP语言--过程<br/>*助教课：课程大作业说明* | |  |  |
+| 9    | 2024/04/26 | 扩展IMP语言--过程<br/>*助教课：课程大作业说明* |[10](./lectures/handout-10-procedure.pdf)  |  |  |
 | 10   | <b>2024/05/03</b> |  |  |  | 放假 |
 | 11   | 2024/05/10 | 程序终止性 |    |    |       |
 | 12   | 2024/05/17 | 推导循环不变式 |       |       |        |
