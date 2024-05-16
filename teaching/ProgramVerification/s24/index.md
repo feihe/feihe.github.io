@@ -45,8 +45,8 @@ permalink: /ProgramVerification/s24
 | 8    | 2024/04/19 | 最弱前置条件 |[9](./lectures/handout-9-predicate-transformation.pdf)  | Homework 4 (DDL:05/11) |  |
 | 9    | 2024/04/26 | 扩展IMP语言--过程<br/>*助教课：课程大作业说明* |[10](./lectures/handout-10-procedure.pdf)  |  |  |
 | 10   | <b>2024/05/03</b> |  |  |  | 放假 |
-| 11   | 2024/05/10 | 程序终止性 |    |    |       |
-| 12   | 2024/05/17 | 推导循环不变式 |       |       |        |
+| 11   | 2024/05/10 | 程序终止性 | [11](./lectures/handout-11-termination.pdf) |    |       |
+| 12   | 2024/05/17 | 推导循环不变式 | [12](./lectures/handout-12-annotation.pdf)  |       |        |
 | 13   | 2024/05/24 | 程序的自动机表示 |  | Homework 5 (DDL:06/01) |      |
 | 14   | 2024/05/31 | 自动程序验证（1） |   |   |               |
 | 15   | 2024/06/07 | 自动程序验证（2）|      |      |               |
