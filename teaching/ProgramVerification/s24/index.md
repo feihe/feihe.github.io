@@ -48,6 +48,6 @@ permalink: /ProgramVerification/s24
 | 11   | 2024/05/10 | 程序终止性 | [11](./lectures/handout-11-termination.pdf) |    |       |
 | 12   | 2024/05/17 | 推导循环不变式 | [12](./lectures/handout-12-annotation.pdf)  |       |        |
 | 13   | 2024/05/24 | 程序的自动机表示 | [13](./lectures/handout-13-cfa.pdf) | Homework 5 (DDL:06/01) |      |
-| 14   | 2024/05/31 | 自动程序验证（1） |   |   |               |
-| 15   | 2024/06/07 | 自动程序验证（2）|      |      |               |
+| 14   | 2024/05/31 | 自动程序验证（1） | [14](./lectures/handout-14-strongest-postcondition.pdf), [15](./lectures/handout-15-bmc.pdf)   |   |               |
+| 15   | 2024/06/07 | 自动程序验证（2）|  [16](./lectures/handout-16-absref.pdf)    |      |               |
 | 16   | 2024/06/14 | 扩展性内容 |      |      |               |
