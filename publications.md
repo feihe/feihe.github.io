@@ -13,7 +13,7 @@ title: Publications
 
 ### <font color=green>Journals</font>
 
-- Hongyu Fan, and Fei He, **Leveraging Datapath Propagation in IC3 for Hardware Model Checking**, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, accepted, 2024. [pdf](./materials/tcad24.pdf)
+- Hongyu Fan, and Fei He, **Leveraging Datapath Propagation in IC3 for Hardware Model Checking**, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), July 2024, 43(7): 2215-2228. [pdf](./materials/tcad24.pdf)
 
 - Fengmin Zhu, Xingyu Xie, Dongyu Feng, Na Meng and Fei He, **On the Methodology of Three-Way Structured Merge in Version Control Systems: Top-Down, Bottom-Up, or Both**, Journal of Systems Architecture, Vol. 145, December 2023, 103011. [DOI](https://doi.org/10.1016/j.sysarc.2023.103011) [pdf](./materials/jsa23.pdf) [artifact](https://thufv.github.io/research/setta22a-artifact)
  
