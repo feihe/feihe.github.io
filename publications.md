@@ -62,7 +62,7 @@ title: Publications
 
 - Delong Zhang, Chong Ye and Fei He, **On Temporal Verification of Stateful P4 Programs**, NSDI 2025, Accepted.  
 
-- Delong Zhang, Chong Ye and Fei He, **P4Inv: Inferring Packet Invariants for Verification of Stateful P4 Programs**, INFOCOM 2024, Accepted. [pdf](./materials/infocom24.pdf) [artifact](https://thufv.github.io/research/p4inv)
+- Delong Zhang, Chong Ye and Fei He, **P4Inv: Inferring Packet Invariants for Verification of Stateful P4 Programs**, INFOCOM 2024. [DOI](https://doi.org/10.1109/INFOCOM52122.2024.10621366) [pdf](./materials/infocom24.pdf) [artifact](https://thufv.github.io/research/p4inv)
 
 - Jiangyi Liu, Fengmin Zhu and Fei He, **Automated Ambiguity Detection in Layout-Sensitive Grammars**, OOPSLA 2023. [DOI](https://doi.org/10.1145/3622838) [pdf](./materials/oopsla23.pdf) [artifact](https://doi.org/10.5281/zenodo.8329981)
 
