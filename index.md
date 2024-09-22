@@ -20,6 +20,8 @@ Here is my [THUFV lab](https://thufv.github.io/)
 
 ### <font color=green>News</font>
 
+- Jul 24, 2024: Our paper, titled \"On Temporal Verification of Stateful P4 Programs\", was accepted by NSDI 2025. 
+
 - Jan 17, 2024: Our paper, titled \"Leveraging Datapath Propagation in IC3 for Hardware Model Checking\", was accepted by IEEE TCAD. 
 
 - Dec 01, 2023: Our paper, titled \"P4Inv: Inferring Packet Invariants for Verification of Stateful P4 Programs\", was accepted by INFOCOM 2024. 
