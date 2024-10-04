@@ -20,6 +20,8 @@ Here is my [THUFV lab](https://thufv.github.io/)
 
 ### <font color=green>News</font>
 
+- Oct 02, 2024: Our paper, titled \"PMVerify: Robustness Verification for Checking Crash Consistency of Non-volatile Memory\", was conditionally accepted by ASPLOS 2025. 
+
 - Jul 24, 2024: Our paper, titled \"On Temporal Verification of Stateful P4 Programs\", was accepted by NSDI 2025. 
 
 - Jan 17, 2024: Our paper, titled \"Leveraging Datapath Propagation in IC3 for Hardware Model Checking\", was accepted by IEEE TCAD. 
