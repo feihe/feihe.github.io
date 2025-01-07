@@ -25,7 +25,7 @@ title: Publications
 
 - Jianhui Chen, Fei He, **Leveraging Control Flow Knowledge in SMT Solving of Program Verification**, ACM Transactions on Software Engineering and Methodology (TOSEM), May 2021, 30 (4), Article 41, 26 pages. [DOI](https://doi.org/10.1145/3446211) [pdf](./materials/tosem21.pdf)
 
-- Chen Luo, Fei He, Fei Peng, Dong Yan, Dan Zhang and Xin Zhou, **PSpec-SQL: Enabling Fine-Grained Control for Distributed Data Analytics**, IEEE Transactions on Dependable and Secure Computing, 2021, 18 (2): 810-824. [DOI](https://10.1109/TDSC.2019.2914209) [pdf](./materials/tdsc19.pdf)
+- Chen Luo, Fei He, Fei Peng, Dong Yan, Dan Zhang and Xin Zhou, **PSpec-SQL: Enabling Fine-Grained Control for Distributed Data Analytics**, IEEE Transactions on Dependable and Secure Computing, 2021, 18 (2): 810-824. [DOI](https://10.1109/TDSC.2019.2914209) [pdf](./materials/tdsc21.pdf)
 
 - Chen Luo, Fei He, **SMT-Based Query Tracking for Differentially Private Data Analytics Systems**, Frontier of Computer Science, 2018, 12 (6): 1192-1207. [pdf](./materials/fcs18a.pdf)
 
