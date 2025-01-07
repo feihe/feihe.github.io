@@ -66,7 +66,7 @@ title: Publications
 
 - Delong Zhang, Chong Ye and Fei He, **P4Inv: Inferring Packet Invariants for Verification of Stateful P4 Programs**, INFOCOM 2024. [DOI](https://doi.org/10.1109/INFOCOM52122.2024.10621366) [pdf](./materials/infocom24.pdf) [artifact](https://thufv.github.io/research/p4inv)
 
-- Jiangyi Liu, Fengmin Zhu and Fei He, **Automated Ambiguity Detection in Layout-Sensitive Grammars**, OOPSLA 2023. (Invited to submit an extended version to the Journal of Functional Programming) [DOI](https://doi.org/10.1145/3622838) [pdf](./materials/oopsla23.pdf) [artifact](https://doi.org/10.5281/zenodo.8329981) 
+- Jiangyi Liu, Fengmin Zhu and Fei He, **Automated Ambiguity Detection in Layout-Sensitive Grammars**, OOPSLA 2023. (**Invited to submit an extended version to the Journal of Functional Programming**) [DOI](https://doi.org/10.1145/3622838) [pdf](./materials/oopsla23.pdf) [artifact](https://doi.org/10.5281/zenodo.8329981) 
 
 - Chong Ye and Fei He, **P4b: A Translator from P4 Programs to Boogie**, ESEC/FSE 2023 (Tool), December 3-9, 2023. [DOI](https://doi.org/10.1145/3611643.3613091) [pdf](./materials/fse23tool.pdf) [artifact](https://thufv.github.io/research/P4-to-Boogie)
 
@@ -118,7 +118,7 @@ title: Publications
 
 - Liangze Yin, Fei He, Ming Gu and Jiaguang Sun, **Clause Replication and Reuse in Incremental Temporal Induction**, ICECCS 2014, Tianjin, China, 4-7 Aug, pp. 108-115, 2014. [pdf](./materials/iceccs14.pdf)
 
-- Hui Kong, Fei He, Xiaoyu Song, William N. N. Hung and Ming Gu, **Exponential-Condition-Based Barrier Certificate Generation for Safety Verification of Hybrid Systems**, 25th International Conference on Computer Aided Verification (CAV 2013), Saint Petersburg, Russia, July 13-19, pp. 242–257, 2013. (Invited to submit an extended version to the Journal of the ACM) [pdf](./materials/cav13.pdf)
+- Hui Kong, Fei He, Xiaoyu Song, William N. N. Hung and Ming Gu, **Exponential-Condition-Based Barrier Certificate Generation for Safety Verification of Hybrid Systems**, 25th International Conference on Computer Aided Verification (CAV 2013), Saint Petersburg, Russia, July 13-19, pp. 242–257, 2013. (**Invited to submit an extended version to the Journal of the ACM**) [pdf](./materials/cav13.pdf)
 
 - Liangze Yin, Fei He and Ming Gu, **Reusing Search Tree for Incremental SAT Solving of Bounded Model Checking**, International Conference on Engineering of Complex Computer Systems (ICECCS 2013), 2013, pp. 85-92. [pdf](./materials/iceccs13.pdf)
 
