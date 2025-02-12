@@ -90,7 +90,7 @@ Here is my [THUFV lab](https://thufv.github.io/)
 
 ### <font color=green>Academic Services</font>
 
-- Associate editor, [Theory of Computing Systems](https://www.springer.com/journal/224/editors), 2021 - present
+- Associate editor, [Theory of Computing Systems](https://link.springer.com/journal/224/editorial-board), 2021 - present
 
 - Young associate editor, [Frontiers of Computer Science](http://journal.hep.com.cn/fcs/EN/column/column22267.shtml#list), 2012 - present
 
