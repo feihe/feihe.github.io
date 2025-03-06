@@ -92,7 +92,7 @@ Here is my [THUFV lab](https://thufv.github.io/)
 
 - Associate editor, [Theory of Computing Systems](https://link.springer.com/journal/224/editorial-board), 2021 - present
 
-- Young associate editor, [Frontiers of Computer Science](http://journal.hep.com.cn/fcs/EN/column/column22267.shtml#list), 2012 - present
+- Young associate editor, [Frontiers of Computer Science](http://journal.hep.com.cn/fcs/EN/column/column22267.shtml#list), 2013 - present
 
 - Program committee member (current): ICSE 25\', OOPSLA 24\' 
 
@@ -129,6 +129,8 @@ Here is my [THUFV lab](https://thufv.github.io/)
 - Qianshan Yu (PhD 2022, ZGC Lab)
 
 - Jianhui Chen (PhD 2021, Huawei)
+
+- Yang Zhang (Master 2024, DeepSeek)
 
 - Chong Ye (Master 2023, Huawei)
 
