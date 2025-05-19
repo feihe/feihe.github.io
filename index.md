@@ -116,11 +116,17 @@ Here is my [THUFV lab](https://thufv.github.io/)
 
 - Pei Wang (PhD student, since 2023)
 
+- Zhiheng Cai (PhD student, since 2024)
+
+- Jiewei Chen (PhD student, since 2024)
+
+- Baiting Jiang (PhD student, since 2024)
+
 - Yang Zhang (Master student, since 2020)
 
-- Xingyu Xie (Master student, since 2021)
-
 - Delong Zhang (Master student, since 2022)
+
+- Yiding Liu (Master student, since 2024)
 
 ### <font color=green>Past Students</font>
 
@@ -131,6 +137,8 @@ Here is my [THUFV lab](https://thufv.github.io/)
 - Jianhui Chen (PhD 2021, Huawei)
 
 - Yang Zhang (Master 2024, DeepSeek)
+
+- Xingyu Xie (Master 2024, PhD student in MPI-SP)
 
 - Chong Ye (Master 2023, Huawei)
 
