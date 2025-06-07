@@ -20,6 +20,8 @@ Here is my [THUFV lab](https://thufv.github.io/)
 
 ### <font color=green>News</font>
 
+- Our program verification tool **Deagle** won the **gold medal** in \"ConcurrencySafety\" category in [SV-COMP 2022, 2023 and 2025](https://sv-comp.sosy-lab.org/2025/results/results-verified/)!
+
 - Oct 02, 2024: Our paper, titled \"PMVerify: Robustness Verification for Checking Crash Consistency of Non-volatile Memory\", was conditionally accepted by ASPLOS 2025. 
 
 - Jul 24, 2024: Our paper, titled \"On Temporal Verification of Stateful P4 Programs\", was accepted by NSDI 2025. 
@@ -39,8 +41,6 @@ Here is my [THUFV lab](https://thufv.github.io/)
 - Jul 1, 2022: Our paper, titled \"Consistency-Preserving Propagation for SMT Solving of Concurrent Program Verification\", was accepted by OOPSLA 2022.
 
 - Apr 18, 2022: Our PPoPP\'22 paper, titled \"Interference Relation-Guided SMT Solving for Multi-Threaded Program Verification\", received the [**Best Paper Award**](https://ppopp22.sigplan.org/) at PPoPP 2022!
-
-- Dec 19, 2021: Our program verification tool **Deagle** won the **gold medal** in \"ConcurrencySafety\" category in [SV-COMP 2022](https://sv-comp.sosy-lab.org/2022/results/results-verified/)!
 
 - Dec 3, 2021: Our paper, titled \"Data-Driven Loop Bound Learning for Termination Analysis \", was accepted by ICSE 2022. 
 
