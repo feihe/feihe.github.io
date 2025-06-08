@@ -62,7 +62,7 @@ title: Publications
 
 - Zhilei Han and Fei He, **Robustness Verification for Checking Crash Consistency of Non-volatile Memory**, ASPLOS 2025, April 2025. [DOI](https://doi.org/10.1145/3669940.3707269) [pdf](./materials/asplos25.pdf) [artifact](https://thufv.github.io/research/asplos25)
 
-- Delong Zhang, Chong Ye and Fei He, **On Temporal Verification of Stateful P4 Programs**, NSDI 2025, Accepted. [artifact](https://thufv.github.io/research/p4tv)  
+- Delong Zhang, Chong Ye and Fei He, **On Temporal Verification of Stateful P4 Programs**, NSDI 2025, April 2025. [OpenAccess](https://www.usenix.org/system/files/nsdi25-zhang-delong.pdf) [pdf](./materials/nsdi25.pdf) [artifact](https://thufv.github.io/research/p4tv)  
 
 - Delong Zhang, Chong Ye and Fei He, **P4Inv: Inferring Packet Invariants for Verification of Stateful P4 Programs**, INFOCOM 2024. [DOI](https://doi.org/10.1109/INFOCOM52122.2024.10621366) [pdf](./materials/infocom24.pdf) [artifact](https://thufv.github.io/research/p4inv)
 
