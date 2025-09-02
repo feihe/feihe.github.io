@@ -60,6 +60,10 @@ title: Publications
 
 ### <font color=green>Conferences</font>
 
+- Biting Huang, Zhilei Han and Fei He, **Accurate Inference of Termination Conditions**, ICSE 2026, accepted. 
+
+- Guanyan Li, Juanen Li, Zhilei Han, Peixin Wang, Hongfei Fu and Fei He, **Structural Abstraction and Refinement for Probabilistic Programs**, OOPSLA 2025, accepted. [pdf](./materials/oopsla25.pdf) [artifact](https://zenodo.org/records/15760713)
+
 - Zhilei Han and Fei He, **Robustness Verification for Checking Crash Consistency of Non-volatile Memory**, ASPLOS 2025, April 2025. [DOI](https://doi.org/10.1145/3669940.3707269) [pdf](./materials/asplos25.pdf) [artifact](https://thufv.github.io/research/asplos25)
 
 - Delong Zhang, Chong Ye and Fei He, **On Temporal Verification of Stateful P4 Programs**, NSDI 2025, April 2025. [OpenAccess](https://www.usenix.org/system/files/nsdi25-zhang-delong.pdf) [pdf](./materials/nsdi25.pdf) [artifact](https://thufv.github.io/research/p4tv)  

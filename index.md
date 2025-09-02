@@ -94,9 +94,9 @@ Here is my [THUFV lab](https://thufv.github.io/)
 
 - Young associate editor, [Frontiers of Computer Science](http://journal.hep.com.cn/fcs/EN/column/column22267.shtml#list), 2013 - present
 
-- Program committee member (current): ICSE 25\', OOPSLA 24\' 
+- Program/Reviewer committee member (current): PLDI 26\' 
 
-- Program committee member (past): ICSE 23-24\', ESEC/FSE 22\', FMCAD 20-22\' & 16-18\', SAT 21-22\', ATVA 22\', ICTAC 22\', FMAC 16-19\', CONCUR 18\', ATVA 18\', MEMCODE 18\', SETTA 16-17\', ICECCS 17\' & 13-15\', APLAS 14\'
+- Program/Reviewer committee member (past): ICSE 23-25\', OOPSLA 24\', ESEC/FSE 22\', FMCAD 20-22\' & 16-18\', SAT 21-22\', ATVA 22\', ICTAC 22\', FMAC 16-19\', CONCUR 18\', ATVA 18\', MEMCODE 18\', SETTA 16-17\', ICECCS 17\' & 13-15\', APLAS 14\'
 
 - Local Arrangement Chair, ISSTA 19\'
 
@@ -122,11 +122,15 @@ Here is my [THUFV lab](https://thufv.github.io/)
 
 - Baiting Jiang (PhD student, since 2024)
 
-- Yang Zhang (Master student, since 2020)
+- Jiaxin Liu (PhD student, since 2025)
 
-- Delong Zhang (Master student, since 2022)
+- Shiyue Liu (PhD student, since 2025)
 
 - Yiding Liu (Master student, since 2024)
+
+- Zan Gong (Master student, since 2025)
+
+- Hang Liu (Master student, sinde 2025)
 
 ### <font color=green>Past Students</font>
 
@@ -135,6 +139,8 @@ Here is my [THUFV lab](https://thufv.github.io/)
 - Qianshan Yu (PhD 2022, ZGC Lab)
 
 - Jianhui Chen (PhD 2021, Huawei)
+
+- Delong Zhang (Master 2025, Huawei)
 
 - Yang Zhang (Master 2024, DeepSeek)
 
