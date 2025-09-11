@@ -80,6 +80,8 @@ Here is my [THUFV lab](https://thufv.github.io/)
 
 ### <font color=green>Teaching</font>
 
+- [Discrete Mathematics I (undergraduate course)](./teaching/DiscreteMathematicsI/a25/index.md)
+  
 - [Software analysis and verification (undergraduate course)](./teaching/ProgramVerification/s25/index.md)
   
 - Formal verification (graduate course)
