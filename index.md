@@ -84,7 +84,7 @@ Here is my [THUFV lab](https://thufv.github.io/)
   
 - [Software analysis and verification (undergraduate course)](./teaching/ProgramVerification/s25/index.md)
   
-- [Formal verification (graduate course)](./teaching/FormalVerification/a25/index.md)
+- [Formal software verification (graduate course)](./teaching/FormalVerification/a25/index.md)
 
 - Modeling and analysis of embedded computing systems (graduate course)
 
