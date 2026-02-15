@@ -108,8 +108,6 @@ Here is my [THUFV lab](https://thufv.github.io/)
 
 ### <font color=green>Current Students</font>
 
-- Zhihang Sun (PhD student, since 2020)
-
 - Zhilei Han (PhD student, since 2021)
 
 - Zhijie Xu (PhD student, since 2022)
@@ -135,6 +133,8 @@ Here is my [THUFV lab](https://thufv.github.io/)
 - Hang Liu (Master student, sinde 2025)
 
 ### <font color=green>Past Students</font>
+
+- Zhihang Sun (PhD 2025, Huawei)
 
 - Hongyu Fan (PhD 2024, Huawei)
 

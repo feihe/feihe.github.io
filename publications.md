@@ -59,6 +59,8 @@ title: Publications
 
 
 ### <font color=green>Conferences</font>
+- Zhiheng Cai, Zhihang Sun and Fei He, **A Refined Ordering Consistency Theory: Full Sequential Consistency and Generalized Preventive Reasoning**, FM 2026, accepted. 
+
 - Min Gou, Zhiyu Yao, Hualong Ma, Ende Zhang, Jian Zhou and Fei He, **CertiCoder: Towards MISRA-Compliant C Code Generation with LLMs**, FSE 2026, accepted.
 
 - Biting Huang, Zhilei Han and Fei He, **Accurate Inference of Termination Conditions**, ICSE 2026, accepted. 
