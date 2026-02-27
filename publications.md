@@ -59,6 +59,9 @@ title: Publications
 
 
 ### <font color=green>Conferences</font>
+
+- Zhijie Xu and Fei He, **Learning Symmetric Invariants from Symmetric Samples**, OOPSLA 2026, accepted. <!--[DOI](https://doi.org/10.1145/3798200)-->
+
 - Zhiheng Cai, Zhihang Sun and Fei He, **A Refined Ordering Consistency Theory: Full Sequential Consistency and Generalized Preventive Reasoning**, FM 2026, accepted. 
 
 - Min Gou, Zhiyu Yao, Hualong Ma, Ende Zhang, Jian Zhou and Fei He, **CertiCoder: Towards MISRA-Compliant C Code Generation with LLMs**, FSE 2026, accepted.
