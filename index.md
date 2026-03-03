@@ -20,45 +20,10 @@ Here is my [THUFV lab](https://thufv.github.io/)
 
 ### <font color=green>News</font>
 
+- Mar 03, 2026: Our ICSE\'26 paper, titled \"Accurate Inference of Termination Conditions\", was selected to receive the [**ACM SIGSOFT Distinguished Paper Award**].
+
 - Our program verification tool **Deagle** won the **gold medal** in \"ConcurrencySafety\" category in [SV-COMP 2022](https://sv-comp.sosy-lab.org/2022/results/results-verified/), [2023](https://sv-comp.sosy-lab.org/2023/results/results-verified/) and [2025](https://sv-comp.sosy-lab.org/2025/results/results-verified/)!
 
-- Oct 02, 2024: Our paper, titled \"PMVerify: Robustness Verification for Checking Crash Consistency of Non-volatile Memory\", was conditionally accepted by ASPLOS 2025. 
-
-- Jul 24, 2024: Our paper, titled \"On Temporal Verification of Stateful P4 Programs\", was accepted by NSDI 2025. 
-
-- Jan 17, 2024: Our paper, titled \"Leveraging Datapath Propagation in IC3 for Hardware Model Checking\", was accepted by IEEE TCAD. 
-
-- Dec 01, 2023: Our paper, titled \"P4Inv: Inferring Packet Invariants for Verification of Stateful P4 Programs\", was accepted by INFOCOM 2024. 
-
-- Aug 29, 2023: Our paper, titled \"Automated Ambiguity Detection in Layout-Sensitive Grammars\", was finally accepted by OOPSLA 2023. 
-
-- Dec 9, 2022: Our paper, titled \"Data-driven Recurrent Set Learning For Non-termination Analysis\", was accepted by ICSE 2023.
-
-- Dec 3, 2022: Our paper, titled \"Satisfiability Modulo Ordering Consistency Theory for SC, TSO, and PSO Memory Models\", was accepted by ACM TOPLAS.
-
-- Oct 28, 2022: Our paper, titled \"Mastery: Shifted-Code-Aware Structured Merging\", received the [**Best Paper Award**](https://lcs.ios.ac.cn/setta2022/index.php) at SETTA 2022!
-
-- Jul 1, 2022: Our paper, titled \"Consistency-Preserving Propagation for SMT Solving of Concurrent Program Verification\", was accepted by OOPSLA 2022.
-
-- Apr 18, 2022: Our PPoPP\'22 paper, titled \"Interference Relation-Guided SMT Solving for Multi-Threaded Program Verification\", received the [**Best Paper Award**](https://ppopp22.sigplan.org/) at PPoPP 2022!
-
-- Dec 3, 2021: Our paper, titled \"Data-Driven Loop Bound Learning for Termination Analysis \", was accepted by ICSE 2022. 
-
-- Nov 16, 2021: Our paper, titled \"Interference Relation-Guided SMT Solving for Multi-Threaded Program Verification \", was accepted by PPoPP 2022.
-
-- Apr 9, 2021: \"Satisfiability Modulo Ordering Consistency Theory for Multi-Threaded Program Verification\", was accepted by PLDI 2021.
-
-- Dec 26, 2020: \"Leveraging Control Flow Knowledge in SMT Solving of Program Verification\" was accepted by ACM TOSEM. 
-
-- Oct 2, 2020: \"Termination Analysis for Evolving Programs\" and \"Incremental Predicate Analysis for Regression Verification\" were accepted by OOPSLA 2020.
-
-- Aug 21, 2020: \"Efficient Summary Reuse for Software Regression Verification\" was accepted by IEEE TSE.
-
-- Jul 4, 2020: \"Proving Termination by k-Induction\" was accepted by ASE 2020 (NIER).
-
-- May 20, 2020: \"Interval Counterexamples for Loop Invariant Learning\" was accepted by ESEC/FSE 2020.
-
-- Feb 29, 2020: \"Proving Almost-Sure Termination by Omega-Regular Decomposition\" was accepted by PLDI 2020.
 
 ---
 
