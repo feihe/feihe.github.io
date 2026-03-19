@@ -28,8 +28,9 @@ permalink: /ProgramVerification/s26
 
 考核方式：
 
-- 三次课后作业
+- 3次课后作业 + 2次编程作业
 - 期末考试
+- 平时表现
 
 期末考试时间：待定
 期末考试地点：待定 
@@ -40,9 +41,9 @@ permalink: /ProgramVerification/s26
 
 | 周次 | 日期       | 教学内容                                       | 讲义                                                         | 作业                              | 备注     |
 | ---- | ---------- | ---------------------------------------------- | ------------------------------------------------------------ | --------------------------------- | -------- |
-| 1    | 2026/02/27 | 绪论                                           | <!--[1](./lectures/handout-1-example-program-gcd.pdf)-->     |                                   |          |
-| 2    | 2026/03/06 | 命题逻辑                                       | <!--[2](./lectures/handout-2-propositional-logic.pdf)-->     |                                   |          |
-| 3    | 2026/03/13 | 一阶逻辑                                       | <!--[3](./lectures/handout-3-first-order-logic.pdf)-->       |                                   |          |
+| 1    | 2026/02/27 | 绪论、命题逻辑                                 | <!--[1](./lectures/handout-1-example-program-gcd.pdf)-->     |                                   |          |
+| 2    | 2026/03/06 | 一阶逻辑                                       | <!--[2](./lectures/handout-2-propositional-logic.pdf)-->     |                                   |          |
+| 3    | 2026/03/13 | 一阶理论                                       | <!--[3](./lectures/handout-3-first-order-logic.pdf)-->       |                                   |          |
 | 4    | 2026/03/20 | 一阶理论<br />*助教课：Z3工具（时间另行通知）* | <!--[4](./lectures/handout-4-theories.pdf)-->                | Homework 1 逻辑 (DDL:03/26)       |          |
 | 5    | 2026/03/27 | IMP程序语言及其语义                            | <!--[5](./lectures/handout-5-program-semantics.pdf)-->       |                                   |          |
 | 6    | 2026/04/03 | 霍尔证明系统                                   | <!--[6](./lectures/handout-6-hoare.pdf)-->                   |                                   |          |
