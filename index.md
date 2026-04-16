@@ -61,13 +61,13 @@ Here is my [THUFV lab](https://thufv.github.io/)
 
 - Young associate editor, [Frontiers of Computer Science](http://journal.hep.com.cn/fcs/EN/column/column22267.shtml#list), 2013 - present
 
-- Program/Reviewer committee member (current): PLDI 26\', POPL 27\', PPoPP\'27 
+- Program/Reviewer committee member (current): PLDI \'26, POPL \'27, PPoPP \'27, FSE \'27 
 
-- Program/Reviewer committee member (past): ICSE 23-25\', OOPSLA 24\', ESEC/FSE 22\', FMCAD 20-22\' & 16-18\', SAT 21-22\', ATVA 22\', ICTAC 22\', FMAC 16-19\', CONCUR 18\', ATVA 18\', MEMCODE 18\', SETTA 16-17\', ICECCS 17\' & 13-15\', APLAS 14\'
+- Program/Reviewer committee member (past): ICSE \'23-25, \'OOPSLA 24, \'ESEC/FSE 22, FMCAD \'20-22 & 16-18, SAT \'21-22, ATVA \'22, ICTAC \'22, FMAC \'16-19, CONCUR \'18, ATVA \'18, MEMCODE \'18, SETTA \'16-17, ICECCS \'17 & 13-15, APLAS \'14
 
-- Local Arrangement Chair, ISSTA 19\'
+- Local Arrangement Chair, ISSTA \'19
 
-- Program committee co-Chair: YR-SETTA 17\'
+- Program committee co-Chair: YR-SETTA \'17
 
 ---
 
