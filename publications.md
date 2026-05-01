@@ -57,16 +57,19 @@ title: Publications
 
 ---
 
-
 ### <font color=green>Conferences</font>
 
-- Zhijie Xu and Fei He, *Learning Symmetric Invariants from Symmetric Samples*, OOPSLA 2026, accepted. <!--[DOI](https://doi.org/10.1145/3798200)-->
+- Zan Gong, Biting Huang and Fei He, *LLM-Guided Loop Bound Generation for Program Termination Verification*, ICML 2026. 
 
-- Zhiheng Cai, Zhihang Sun and Fei He, *A Refined Ordering Consistency Theory: Full Sequential Consistency and Generalized Preventive Reasoning*, FM 2026, accepted. 
+- Pei Wang, Zhilei Han, Zhihan Sun and Fei He, *Deadlock Verification via Ordering-Constrained Mutex Modeling*, CAV 2026. 
 
-- Min Gou, Zhiyu Yao, Hualong Ma, Ende Zhang, Jian Zhou and Fei He, *CertiCoder: Towards MISRA-Compliant C Code Generation with LLMs*, FSE 2026, accepted.
+- Zhijie Xu and Fei He, *Learning Symmetric Invariants from Symmetric Samples*, OOPSLA 2026. [DOI](https://doi.org/10.1145/3798200)
 
-- Biting Huang, Zhilei Han and Fei He, *Accurate Inference of Termination Conditions*, ICSE 2026, accepted. [pdf](./materials/icse26.pdf) [artifact](https://thufv.github.io/research/icse26) (**ACM SIGSOFT Distinguished Paper Award**)
+- Zhiheng Cai, Zhihang Sun and Fei He, *A Refined Ordering Consistency Theory: Full Sequential Consistency and Generalized Preventive Reasoning*, FM 2026. 
+
+- Min Gou, Zhiyu Yao, Hualong Ma, Ende Zhang, Jian Zhou and Fei He, *CertiCoder: Towards MISRA-Compliant C Code Generation with LLMs*, FSE 2026.
+
+- Biting Huang, Zhilei Han and Fei He, *Accurate Inference of Termination Conditions*, ICSE 2026. [pdf](./materials/icse26.pdf) [artifact](https://thufv.github.io/research/icse26) (**ACM SIGSOFT Distinguished Paper Award**)
 
 - Guanyan Li, Juanen Li, Zhilei Han, Peixin Wang, Hongfei Fu and Fei He, *Structural Abstraction and Refinement for Probabilistic Programs*, OOPSLA 2025, Oct. 2025. [DOI](https://doi.org/10.1145/376311) [pdf](./materials/oopsla25.pdf) [artifact](https://zenodo.org/records/15760713) 
 
