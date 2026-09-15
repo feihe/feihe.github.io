@@ -45,7 +45,7 @@ Here is my [THUFV lab](https://thufv.github.io/)
 
 ### <font color=green>Teaching</font>
 
-- [Discrete Mathematics I (undergraduate course)](./teaching/DiscreteMathematicsI/a25/index.md)
+- [Discrete Mathematics I (undergraduate course)](./teaching/DiscreteMathematicsI/a26/index.md)
   
 - [Software analysis and verification (undergraduate course)](./teaching/ProgramVerification/s26/index.md)
   
@@ -91,11 +91,17 @@ Here is my [THUFV lab](https://thufv.github.io/)
 
 - Shiyue Liu (PhD student, since 2025)
 
+- Zecan Li (PhD student, since 2026)
+
 - Yiding Liu (Master student, since 2024)
 
 - Zan Gong (Master student, since 2025)
 
 - Hang Liu (Master student, sinde 2025)
+
+- Kaicheng Sun (Master student, sinde 2026)
+
+- Yihan Liu (Master student, sinde 2026)
 
 ### <font color=green>Past Students</font>
 
